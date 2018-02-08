@@ -1,5 +1,5 @@
 public class FileOperations {
-    public static main (String[] args){
+    public static void main (String[] args){
 
         fileRead r = new fileRead();
         r.openFile();

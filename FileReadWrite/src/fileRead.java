@@ -7,7 +7,7 @@ public class fileRead {
 
     public void openFile(){
         try{
-            File file = new File("/Temp/statementTest.txt");
+            File file = new File("/D:/8I/Temp/statementTest.txt");
             x  = new Scanner(file);
         }
         catch(Exception e) {
